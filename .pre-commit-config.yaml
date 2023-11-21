@@ -10,9 +10,9 @@ repos:
     rev: 22.3.0
     hooks:
       - id: black
-        files: ^package-template/
+        files: ^SpikingAI/
   - repo: https://github.com/pycqa/isort
     rev: 5.10.1
     hooks:
       - id: isort
-        files: ^package-template/
+        files: ^SpikingAI/

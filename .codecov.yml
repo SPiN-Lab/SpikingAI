@@ -15,7 +15,7 @@ coverage:
         threshold: 0
 
 ignore:
-  - "package-template/tests/"
-  - "package-template/due.py"
-  - "package-template/_version.py"
-  - "package-template/info.py"
+  - "SpikingAI/tests/"
+  - "SpikingAI/due.py"
+  - "SpikingAI/_version.py"
+  - "SpikingAI/info.py"

@@ -1,6 +1,6 @@
 .. _api_ref:
 
-.. currentmodule:: package-template
+.. currentmodule:: SpikingAI
 
 ###
 API
@@ -10,21 +10,21 @@ API
 .. _api_module_ref:
 
 **************************************************
-:mod:`package-template.module`: Module description
+:mod:`SpikingAI.module`: Module description
 **************************************************
 
-.. automodule:: package-template.module
+.. automodule:: SpikingAI.module
    :no-members:
    :no-inherited-members:
 
-.. currentmodule:: package-template.module
+.. currentmodule:: SpikingAI.module
 
 .. autosummary::
    :toctree: generated/
    :template: class.rst
 
-   package-template.module.Class
+   SpikingAI.module.Class
 
    :template: function.rst
 
-   package-template.module.function
+   SpikingAI.module.function

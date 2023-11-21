@@ -1,17 +1,17 @@
-# package-template
+# SpikingAI
 A template repo to use for new repositories.
 
-[![Latest Version](https://img.shields.io/pypi/v/package-template.svg)](https://pypi.python.org/pypi/package-template/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/package-template.svg)](https://pypi.python.org/pypi/package-template/)
+[![Latest Version](https://img.shields.io/pypi/v/SpikingAI.svg)](https://pypi.python.org/pypi/SpikingAI/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/SpikingAI.svg)](https://pypi.python.org/pypi/SpikingAI/)
 [![DOI](https://zenodo.org/badge/111111.svg)](https://zenodo.org/badge/latestdoi/111111)
 [![License](https://img.shields.io/badge/License-LGPL%202.1-blue.svg)](https://opensource.org/licenses/LGPL-2.1)
-[![CircleCI](https://circleci.com/gh/package-template/package-template.svg?style=shield)](https://circleci.com/gh/package-template/package-template)
-[![Documentation Status](https://readthedocs.org/projects/package-template/badge/?version=latest)](http://package-template.readthedocs.io/en/latest/?badge=latest)
-[![Codecov](https://codecov.io/gh/package-template/package-template/branch/main/graph/badge.svg)](https://codecov.io/gh/package-template/package-template)
+[![CircleCI](https://circleci.com/gh/SpikingAI/SpikingAI.svg?style=shield)](https://circleci.com/gh/SpikingAI/SpikingAI)
+[![Documentation Status](https://readthedocs.org/projects/SpikingAI/badge/?version=latest)](http://SpikingAI.readthedocs.io/en/latest/?badge=latest)
+[![Codecov](https://codecov.io/gh/SpikingAI/SpikingAI/branch/main/graph/badge.svg)](https://codecov.io/gh/SpikingAI/SpikingAI)
 
 ## Instructions
 
-1. Replace `package-template` with the new repo name across the whole repository.
+1. Replace `SpikingAI` with the new repo name across the whole repository.
 1. Enable the GitHub repository on Zenodo.
 1. Set up the GitHub repository on CircleCI.
 1. Set up the GitHub repository on ReadTheDocs.
