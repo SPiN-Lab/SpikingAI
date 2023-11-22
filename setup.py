@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""package-template setup script"""
+"""SpikingAI setup script"""
 from setuptools import setup
 
 import versioneer
 
 if __name__ == "__main__":
     setup(
-        name="package-template",
+        name="SpikingAI",
         version=versioneer.get_version(),
         cmdclass=versioneer.get_cmdclass(),
         zip_safe=False,

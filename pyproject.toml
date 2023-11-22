@@ -19,8 +19,8 @@ exclude = '''
   )/
   | get_version.py
   | versioneer.py
-  | package-template/_version.py
-  | package-template/due.py
+  | SpikingAI/_version.py
+  | SpikingAI/due.py
 )
 '''
 
