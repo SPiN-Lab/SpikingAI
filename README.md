@@ -11,7 +11,7 @@ A template repo to use for new repositories.
 
 ## Instructions
 
-1. Replace `SpikingAI` with the new repo name across the whole repository.
+
 1. Enable the GitHub repository on Zenodo.
 1. Set up the GitHub repository on CircleCI.
 1. Set up the GitHub repository on ReadTheDocs.
