@@ -1,6 +1,6 @@
 from torch import nn
 from SpykeTorch import snn
-from spykeTorch import functional as sf
+from SpykeTorch import functional as sf
 
 class neural_layer(nn.Module):
   """
