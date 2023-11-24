@@ -14,8 +14,17 @@ A template repo to use for new repositories.
 This project is built around Spyking Torch library [source webpage](https://www.nengo.ai/pytorch-spiking/). The aim is adapt and extend the code to model functional connectivity-informed spiking neural models. This project borns as a result of Brain Hack Donostia 2023 [Global Brainhack project submission](https://github.com/brainhackorg/global2023/issues/43).
 
 ### Contributors:
+ **note** Contributors are *alphabetically listed*
+- Chavarria Marques, Inés
+- Essamadi, Oumaia
+- Ferrer Gallardo, Vicente J.
+- Flores Coronado, Marco A.
+- Gupta, Akanksha
+- Urino, Julieta
+- Zareba, Michal Rafal
 
-your names
+
+
 
 ### Related bibliography 
 
