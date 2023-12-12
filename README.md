@@ -9,6 +9,26 @@ A template repo to use for new repositories.
 [![Documentation Status](https://readthedocs.org/projects/SpikingAI/badge/?version=latest)](http://SpikingAI.readthedocs.io/en/latest/?badge=latest)
 [![Codecov](https://codecov.io/gh/SpikingAI/SpikingAI/branch/main/graph/badge.svg)](https://codecov.io/gh/SpikingAI/SpikingAI)
 
+## Spyking AI
+
+This project is built around Spyking Torch library [source webpage](https://www.nengo.ai/pytorch-spiking/). The aim is adapt and extend the code to model functional connectivity-informed spiking neural models. This project borns as a result of Brain Hack Donostia 2023 [Global Brainhack project submission](https://github.com/brainhackorg/global2023/issues/43).
+
+### Contributors:
+ **note** Contributors are *alphabetically listed*
+- Chavarria Marques, Inés
+- Essamadi, Oumaia
+- Ferrer Gallardo, Vicente J.
+- Flores Coronado, Marco A.
+- Gupta, Akanksha
+- Urino, Julieta
+- Zareba, Michal Rafal
+
+
+
+
+### Related bibliography 
+
+
 ## Instructions
 
 1. Enable the GitHub repository on Zenodo.
